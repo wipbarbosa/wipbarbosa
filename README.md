@@ -1,27 +1,53 @@
-# Hi there, I'm Guilherme! 👋
+# こんにちは, I'm Guilherme.
 
-💻 I'm currently studying programming and building my foundations in software development.
+```text
+> Initializing Guilherme.exe...
+> Loading skills...
+> Python        [██████░░░░] 60%
+> SQL           [████░░░░░░] 40%
+> Databases     [███░░░░░░░] 30%
+> BPMN          [██████░░░░] 60%
 
-## 📚 Currently studying
+> Status: Learning & Building
+```
 
-* 🐍 Python
-* 🗄️ SQL and Databases
-* 🔄 BPMN and Business Process Modeling
+Computer Science student learning by building things, breaking them, fixing them, and trying again.
 
-## 🚀 My repositories
+Currently exploring Python, SQL, databases, and software development fundamentals.
 
-### 📚 Python Studies
+```text
+01001100 01100101 01100001 01110010 01101110
+```
 
-Exercises and learning notes organized by Python topics, documenting my progress from the fundamentals to more advanced concepts.
+> "The journey of a thousand miles begins with a single step."
 
-→ [python-studies](https://github.com/wipbarbosa/python-studies)
+## ── QUEST LOG ──
 
-### 💻 Python Projects
+### [01] Python Studies
 
-Practical projects developed throughout my Python learning journey, applying the concepts I study along the way.
+A collection of exercises and experiments documenting my journey through Python, from the fundamentals to more advanced concepts.
 
-→ [python-projects](https://github.com/wipbarbosa/python-projects)
+→ [Enter the studies](https://github.com/wipbarbosa/python-studies)
 
-## 🎯 Goal
+### [02] Python Projects
 
-I'm focused on building a strong programming foundation through consistent study, practice, and hands-on projects.
+Practical projects built along the way, turning what I learn into something I can actually use.
+
+→ [Enter the projects](https://github.com/wipbarbosa/python-projects)
+
+## ── CURRENTLY ──
+
+```text
+[████████░░] Building foundations
+[██████░░░░] Learning Python
+[████░░░░░░] Exploring SQL & Databases
+[████░░░░░░] Understanding software development
+```
+
+Every project is another level.
+
+Every mistake is another lesson.
+
+```text
+> Continue? [Y/n]
+```
