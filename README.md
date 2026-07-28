@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Guilherme! 👋
 
-<!--
-**wipbarbosa/wipbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm currently studying programming and building my foundations in software development.
 
-Here are some ideas to get you started:
+## 📚 Currently studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* 🗄️ SQL and Databases
+* 🔄 BPMN and Business Process Modeling
+
+## 🚀 My repositories
+
+### 📚 Python Studies
+
+Exercises and learning notes organized by Python topics, documenting my progress from the fundamentals to more advanced concepts.
+
+→ [python-studies](https://github.com/wipbarbosa/python-studies)
+
+### 💻 Python Projects
+
+Practical projects developed throughout my Python learning journey, applying the concepts I study along the way.
+
+→ [python-projects](https://github.com/wipbarbosa/python-projects)
+
+## 🎯 Goal
+
+I'm focused on building a strong programming foundation through consistent study, practice, and hands-on projects.
