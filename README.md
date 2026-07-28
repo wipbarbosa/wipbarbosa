@@ -16,7 +16,7 @@ Computer Science student learning by building things, breaking them, fixing them
 Currently exploring Python, SQL, databases, and software development fundamentals.
 
 ```text
-01001100 01100101 01100001 01110010 01101110
+01110011 01101111 01101110 01100100 01100101 01110010
 ```
 
 > "The journey of a thousand miles begins with a single step."
