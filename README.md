@@ -1,4 +1,4 @@
-# こんにちは, I'm Guilherme.
+# あ！ やせいの ギレルメ が とびだしてきた！, I'm Guilherme.
 
 ```text
 > Initializing Guilherme.exe...
