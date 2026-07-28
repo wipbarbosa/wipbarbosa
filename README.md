@@ -1,5 +1,5 @@
 # ギレルメ！, I'm Guilherme.
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFrbGZiYzZrOGprcDJiOWg5cDAxejlnMzR3djVwbDB0b3NsOGtqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378skJqZBIabyBY4/giphy.gif)
+![Demonstração](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFrbGZiYzZrOGprcDJiOWg5cDAxejlnMzR3djVwbDB0b3NsOGtqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378skJqZBIabyBY4/giphy.gif)
 
 ```text
 > Initializing Guilherme.exe...
