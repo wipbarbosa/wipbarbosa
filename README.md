@@ -49,5 +49,5 @@ Every project is another level.
 Every mistake is another lesson.
 
 ```text
-> Continue? [Y/n]
+> Continue? [Y/N]
 ```
