@@ -3,7 +3,7 @@
 ```text
 > Initializing Guilherme.exe...
 > Loading skills...
-> Python        [██████░░░░] 60%
+> Python        [██████    ] 60%
 > SQL           [████░░░░░░] 40%
 > Databases     [███░░░░░░░] 30%
 > BPMN          [██████░░░░] 60%
