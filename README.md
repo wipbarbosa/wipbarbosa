@@ -99,5 +99,6 @@ Portfolio: [your-website.com](https://your-website.com)
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wipbarbosa&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wipbarbosa&layout=compact&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wipbarbosa&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wipbarbosa&layout=compact&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
