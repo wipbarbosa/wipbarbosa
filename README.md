@@ -3,11 +3,11 @@
 ```
 > Initializing Guilherme.exe...
 > Loading skills...
-> Python        [██████░░░░] 60%
-> JavaScript    [█████░░░░░] 50%
-> SQL           [████░░░░░░] 40%
-> Java          [████░░░░░░] 40%
-> Databases     [███░░░░░░░] 30%
+> Python     [████████░░░░] 60%
+> JavaScript [██████░░░░░░] 50%
+> SQL        [████░░░░░░░░] 40%
+> Java       [████░░░░░░░░] 40%
+> Databases  [███░░░░░░░░░] 30%
 >
 > Status: Learning & Building
 ```
