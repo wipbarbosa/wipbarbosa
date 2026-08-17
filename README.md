@@ -91,7 +91,7 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 
 ## Let's Connect
 
-Email: [your.email@example.com](mailto:your.email@example.com)  
+Email: [guilherme.barbosa.dev@outlook.com](mailto:guilherme.barbosa.dev@outlook.com)  
 LinkedIn: [Add your profile](https://linkedin.com)  
 Portfolio: [your-website.com](https://your-website.com)
 
