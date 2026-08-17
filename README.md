@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_9146FF&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff" width="100%"/>
 
 </div>
 
