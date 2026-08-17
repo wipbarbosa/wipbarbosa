@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=_9146FF&height=200&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff&fontFamily=Fira+Code" width="100%"/>
 
 </div>
 
@@ -95,6 +95,6 @@ Portfolio: <!-- adicione seu link aqui quando tiver -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=200&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=_9146FF&height=220&section=footer" width="100%"/>
 
 </div>
