@@ -66,12 +66,17 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 [java-practice](https://github.com/wipbarbosa/java-practice)
 
 ---
-
-## Learning Progress
-
-
-[████████░░] Building solid foundations [██████░░░░] Mastering Python [█████░░░░░] Learning JavaScript [█████░░░░░] Exploring SQL & Databases [███░░░░░░░] Understanding Java [████░░░░░░] Software development concepts
 ```
+## Learning Progress
+```
+
+[████████░░] Building solid foundations
+[██████░░░░] Mastering Python
+[█████░░░░░] Learning JavaScript
+[█████░░░░░] Exploring SQL & Databases
+[███░░░░░░░] Understanding Java
+[████░░░░░░] Software development concepts
+
 
 ---
 
