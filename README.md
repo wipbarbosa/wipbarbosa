@@ -1,16 +1,17 @@
 # ギレルメ！, I'm Guilherme.
 
 ```
-Initializing Guilherme.exe...
-Loading skills...
-Python [██████░░░░] 60%
-JavaScript [█████░░░░░] 50%
-SQL [████░░░░░░] 40%
-Java [████░░░░░░] 40%
- Databases [███░░░░░░░] 30%
+> Initializing Guilherme.exe...
+> Loading skills...
+> Python        [██████░░░░] 60%
+> JavaScript    [█████░░░░░] 50%
+> SQL           [████░░░░░░] 40%
+> Java          [████░░░░░░] 40%
+> Databases     [███░░░░░░░] 30%
 
-Status: Learning & Building
+> Status: Learning & Building
 ```
+
 Computer Science student learning by building things, breaking them, fixing them, and trying again.
 
 Currently exploring Python, JavaScript, Java, SQL, and databases while building practical projects to apply software development fundamentals.
@@ -22,6 +23,7 @@ Currently exploring Python, JavaScript, Java, SQL, and databases while building 
 ```
 01110011 01101111 01101110 01100100 01100101 01110010
 ```
+
 > "The journey of a thousand miles begins with a single step."
 >
 > Every project is another level. Every mistake is another lesson.
@@ -66,12 +68,15 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 ---
 
 ## Learning Progress
-[████████░░] Building solid foundations 
+
+```
+[████████░░] Building solid foundations
 [██████░░░░] Mastering Python
 [█████░░░░░] Learning JavaScript
 [█████░░░░░] Exploring SQL & Databases
 [███░░░░░░░] Understanding Java
 [████░░░░░░] Software development concepts
+```
 
 ---
 
@@ -86,8 +91,8 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 
 ## Let's Connect
 
-Email: [your.email@example.com](mailto:your.email@example.com)
-LinkedIn: [Add your profile](https://linkedin.com)
+Email: [your.email@example.com](mailto:your.email@example.com)  
+LinkedIn: [Add your profile](https://linkedin.com)  
 Portfolio: [your-website.com](https://your-website.com)
 
 ---
