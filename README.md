@@ -95,6 +95,6 @@ Portfolio: <!-- adicione seu link aqui quando tiver -->
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=cccccc&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=_cccccc&height=200&width=1000&section=footer)
 
 </div>
