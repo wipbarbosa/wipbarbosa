@@ -1,16 +1,14 @@
 # ギレルメ！, I'm Guilherme.
 
-> Initializing Guilherme.exe...
-
-> 
-> Loading skills...  
-> Python        [████████░░] 60%  
-> JavaScript    [████████░░] 50%  
-> SQL           [████████░░] 40%  
-> Java          [████████░░] 40%  
-> Databases     [████████░░] 30%
->
 ```
+> Initializing Guilherme.exe...
+> Loading skills...
+> Python        [██████░░░░] 60%
+> JavaScript    [█████░░░░░] 50%
+> SQL           [████░░░░░░] 40%
+> Java          [████░░░░░░] 40%
+> Databases     [███░░░░░░░] 30%
+>
 > Status: Learning & Building
 ```
 
@@ -68,19 +66,17 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 [java-practice](https://github.com/wipbarbosa/java-practice)
 
 ---
-```
+
 ## Learning Progress
+
 ```
-
-
-[████████░░] Building solid foundations  
-[██████░░░░] Mastering Python  
-[█████░░░░░] Learning JavaScript  
-[█████░░░░░] Exploring SQL & Databases  
-[███░░░░░░░] Understanding Java  
+[████████░░] Building solid foundations
+[██████░░░░] Mastering Python
+[█████░░░░░] Learning JavaScript
+[█████░░░░░] Exploring SQL & Databases
+[███░░░░░░░] Understanding Java
 [████░░░░░░] Software development concepts
-
-
+```
 
 ---
 
