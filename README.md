@@ -69,13 +69,8 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 
 ## Learning Progress
 
-```
-[████████░░] Building solid foundations
-[████████░░] Mastering Python
-[████████░░] Learning JavaScript
-[████████░░] Exploring SQL & Databases
-[████████░░] Understanding Java
-[████████░░] Software development concepts
+
+[████████░░] Building solid foundations [██████░░░░] Mastering Python [█████░░░░░] Learning JavaScript [█████░░░░░] Exploring SQL & Databases [███░░░░░░░] Understanding Java [████░░░░░░] Software development concepts
 ```
 
 ---
