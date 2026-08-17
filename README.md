@@ -71,7 +71,7 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 ```
 ## Learning Progress
 ```
-```
+
 
 [████████░░] Building solid foundations  
 [██████░░░░] Mastering Python  
@@ -79,7 +79,7 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 [█████░░░░░] Exploring SQL & Databases  
 [███░░░░░░░] Understanding Java  
 [████░░░░░░] Software development concepts
-```
+
 
 
 ---
