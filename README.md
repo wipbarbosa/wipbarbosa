@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff)
 
 </div>
 
