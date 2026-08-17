@@ -1,6 +1,6 @@
 # ギレルメ！, I'm Guilherme.
 
-```
+
 > Initializing Guilherme.exe...
 > Loading skills...
 > Python        [████████░░] 60%
@@ -8,7 +8,7 @@
 > SQL           [████████░░] 40%
 > Java          [████████░░] 40%
 > Databases     [████████░░] 30%
-
+```
 > Status: Learning & Building
 ```
 
