@@ -1,3 +1,9 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff)
+
+</div>
+
 # ギレルメ！, I'm Guilherme.
 
 ```
@@ -13,10 +19,7 @@
 ```
 
 Computer Science student learning by building things, breaking them, fixing them, and trying again.
-
 Currently exploring Python, JavaScript, Java, SQL, and databases while building practical projects to apply software development fundamentals.
-
----
 
 ## About Me
 
@@ -24,11 +27,8 @@ Currently exploring Python, JavaScript, Java, SQL, and databases while building 
 01110011 01101111 01101110 01100100 01100101 01110010
 ```
 
-> "The journey of a thousand miles begins with a single step."
->
-> Every project is another level. Every mistake is another lesson.
-
----
+"The journey of a thousand miles begins with a single step."
+Every project is another level. Every mistake is another lesson.
 
 ## Tech Stack
 
@@ -41,31 +41,23 @@ Currently exploring Python, JavaScript, Java, SQL, and databases while building 
 - Software development fundamentals
 - CLI applications
 
----
-
 ## Projects
 
-### Python Practice
+**Python Practice**
 A collection of exercises and experiments documenting my journey through Python, from fundamentals to advanced concepts.
-
 [python-practice](https://github.com/wipbarbosa/python-practice) · [python-studies](https://github.com/wipbarbosa/python-studies)
 
-### Python Projects
+**Python Projects**
 Practical CLI projects turning learning into something functional.
-
 [python-projects](https://github.com/wipbarbosa/python-projects)
 
-### JavaScript Studies
+**JavaScript Studies**
 Documentando meus primeiros passos em JavaScript — exercícios e experimentos práticos.
-
 [javascript-studies](https://github.com/wipbarbosa/javascript-studies)
 
-### Java Practice
+**Java Practice**
 Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundamentais.
-
 [java-practice](https://github.com/wipbarbosa/java-practice)
-
----
 
 ## Learning Progress
 
@@ -78,8 +70,6 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 [████░░░░░░] Software development concepts
 ```
 
----
-
 ## Philosophy
 
 - Build while learning — theory + practice
@@ -87,18 +77,24 @@ Estudos e exercícios de Java — explorando a linguagem e seus conceitos fundam
 - Document the journey — help others and future me
 - Consistent progress — small steps, big results
 
----
-
 ## Let's Connect
 
-Email: [guilherme.barbosa.dev@outlook.com](mailto:guilherme.barbosa.dev@outlook.com)  
-LinkedIn: [Add your profile](https://linkedin.com)  
-Portfolio: [your-website.com](https://your-website.com)
-
----
+Email: [guilherme.barbosa.dev@outlook.com](mailto:guilherme.barbosa.dev@outlook.com)
+LinkedIn: <!-- adicione seu link aqui: https://linkedin.com/in/seu-usuario -->
+Portfolio: <!-- adicione seu link aqui quando tiver -->
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wipbarbosa&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wipbarbosa&layout=compact&theme=dracula&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wipbarbosa&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wipbarbosa&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
