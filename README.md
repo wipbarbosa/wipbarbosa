@@ -98,10 +98,3 @@ Portfolio: <!-- adicione seu link aqui quando tiver -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=200&section=footer" width="100%"/>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=_9146FF&height=220&section=footer" width="100%"/>
-
-</div>
-
