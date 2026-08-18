@@ -98,3 +98,4 @@ Portfolio: <!-- adicione seu link aqui quando tiver -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=_9146FF&height=220&section=footer" width="100%"/>
 
 </div>
+
