@@ -8,6 +8,7 @@
 
 ```
 > Initializing Guilherme.exe...
+
 > Loading skills...
 > Python     [████████░░░░] 
 > JavaScript [██████░░░░░░] 
