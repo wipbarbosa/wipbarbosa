@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=_9146FF&height=200&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff&fontFamily=Fira+Code" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=180&section=header&text=Guilherme%20Barbosa&fontSize=42&fontColor=ffffff" width="100%"/>
 
 </div>
 
@@ -90,6 +90,12 @@ Portfolio: <!-- adicione seu link aqui quando tiver -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wipbarbosa&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wipbarbosa&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=411A8F&height=200&section=footer" width="100%"/>
 
 </div>
 
