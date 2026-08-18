@@ -14,7 +14,7 @@
 > SQL        [████░░░░░░░░] 
 > Java       [████░░░░░░░░] 
 > Databases  [███░░░░░░░░░] 
->
+
 > Status: Learning & Building
 ```
 
